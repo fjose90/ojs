@@ -1,0 +1,20 @@
+[Tue Aug 09 16:24:18.832447 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:24:18.832533 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 16:24:18.957395 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:24:18.957449 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 16:26:13.585703 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:26:13.585916 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 16:26:13.755780 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:26:13.755871 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 16:43:25.913752 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:43:25.913828 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 16:43:26.082069 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 16:43:26.082150 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 22:00:45.729740 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 22:00:45.729912 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 09 22:00:45.905754 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 09 22:00:45.905788 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 10 07:58:18.112073 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 10 07:58:18.112197 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 10 07:58:18.478465 2022] [ssl:warn] [pid 8] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 10 07:58:18.478502 2022] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
